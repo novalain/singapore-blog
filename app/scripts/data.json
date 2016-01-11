@@ -1,0 +1,237 @@
+[
+	{ 
+		"id" : 11,
+		"title" : "Tenta-P",
+		"postDate" : "November 24 2015",
+		"month" : "november",
+		"firstParagraph" : "Sjukt dålig på att uppdatera här. Tenta-P är i full gång och det märks rätt ordentligt, bussarna går var 5:e minut och nya regler säger att det ska råda tystnad 24/7 även fast detta inte gäller i praktiken. Nu är det helt omöjligt att hitta en plats i skolan även på kvällstid, och då menar jag efter klockan 21-22 på kvällen. Folk är som galna och tar powernaps för att orka plugga vidare sent inpå natten. Jag har spenderat större delen av mitt tentaplugg på våran 24/7 Starbucks som är det överlägset bästa stället att sitta på.",
+		"content" : [
+					{"type" : "image", "imageSrc" : "../images/241115/1.jpg", "imageTitle" : "Folk powernapar överallt"},
+					{"type" : "paragraph", "paragraphText" : "Har skrivit alla mina tentor nu vilket är sjukt nice. Har en sista redovisning imorgon och sedan är det klart för jullov! Var med min kompis Clement och hans vänner på en indisk restaurang förra veckan som sades servera Singapores bästa prata. En prata ett indiskt påhitt, typ en blandning mellan bröd och pannkaka som man kan ha iprincip allting till (kyckling, svamp, choklad, you name it). Detta stället var berömt för sina chockladprata som man fick med chili och stark currysås, väldigt udda combo men det var sjukt gott haha."},
+					{"type" : "image", "imageSrc" : "../images/241115/2.jpg", "imageTitle" : "Chockladprata med spicy sås"},
+					{"type" : "paragraph", "paragraphText" : "Det var så nice så jag drog med mina roomies till samma ställe dagen efter och beställde in ett lass med mat. Enaq hette stället föressten, ligger vid Chinese Garden."}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 11,
+		"title" : "Update",
+		"postDate" : "November 03 2015",
+		"month" : "november",
+		"firstParagraph" : "Bara några veckor kvar nu tills julledighet! 24 November skriver jag min sista tenta och sen väntar en lång och välbehövd semester till ungefär runt den 10 Januari. Först kommer Jessica ner, vi ska först starta i Singapore och ta oss uppåt mot Malaysia och sedan Thailand. Hon är här till den 18 december sedan byts hon av mot Simon och Fidde som också bestämt sig för att komma hit på lite semester :D blir alltså jul och nyår någonstans i Vietnam/Kambodja/Thailand. Någon som har restips eller någon annat kul att berätta, skicka PM.",
+		"content" : [
+					{"type" : "image", "imageSrc" : "../images/031115/1.jpg", "imageTitle" : ""},
+					{"type" : "paragraph", "paragraphText" : "En bild från min CS2010 klass, finn ett fel haha."}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 11,
+		"title" : "Compilers",
+		"postDate" : "Oktober 23 2015",
+		"month" : "oktober",
+		"firstParagraph" : "Yo! Alla kurser är väldigt krävande här borta med olika assignments och kursmoment varje vecka. En av dem slår dock alla andra kurser jag läst i svårighetsgrad med hästlängder - Compiler Design. Kursen går i stort sätt ut på att skriva en kompilator till programmeringsspråket MOOL från grunden. En kompilators olika faser är ungefär:",
+		"list" : [{"name" : "Lexical Analysis", "desc" : "Definiera vilka tecken/ord som får existera i programmet. Skanna progammet och se till att det bara innehåller dessa tecken - släng bort kommentarer"}, {"name" : "Syntax Analyzer", "desc" : "Definiera grammatik för språket - se till att programmet följer grammatiken (syntaxen)."}, {"name" : "Semantic Analysis", "desc" : "Kontrollera att programmet följer språkets regler och att typerna är rätt (t.ex klassnamn ska vara unika, en string ska inte kunna adderas med en int)."}, {"name" : "Intermediate Code Generation", "desc" : "Gör om koden så att den senare lättare kan översättas till binär kod"}, { "name" : "Code Optimization", "desc" : "Ta bort t.ex variabler som inte används och organiserar om strukturen för att speeda upp programmet."}, {"name" : "Code Generation", "desc" : "Gör om den optimerade koden till binärt så att datorn kan läsa den."}],
+		"content" : [
+					{"type" : "paragraphNew", "paragraphText" : "Detta är alltså (grovt förenklat) de olika faserna hos en kompilator. Det här ska vi inte heller implementera i C, Java eller något annat språk som man är hyfsat van vid - utan i OCaml som är ett funktionellt språk där allting programmeras rekursivt. Den största anledningen till att använda funktionella språk (OCaml, Haskell, Lisp etc) är för att de anses vara väldigt säkra, då det är matematiskt lättare att bevisa att rekursiva funktioner gör det de ska - som säkert är bra för att programmera viktiga saker som t.ex flygplansmotorer etc, men används väldigt sällan annars."},
+					{"type" : "image", "imageSrc" : "../images/231015/2.jpg", "imageTitle" : ""},
+					{"type" : "paragraph", "paragraphText" : "Vet inte riktigt varför jag skriver om kompilatorer, men har inte hänt så mycket annat på sistone. Jag blev medbjuden av en singaporean i min GPU klass att kolla in kyrkan med honom, tänkte varför inte? Detta var då en väldigt modern kyrka med band, storbildskärmar, rökeffekter, ljudeffekter, föreläsare osv. Rätt coolt faktiskt och härlig stämning."},
+					{"type" : "image", "imageSrc" : "../images/231015/1.jpg", "imageTitle" : "Kyrka"}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 10,
+		"title" : "Japan",
+		"postDate" : "Oktober 09 2015",
+		"month" : "oktober",
+		"firstParagraph" : "Känns som jag haft ungefär en månads tenta-p nu. Tydligen är det alltid så att de första två månaderna är rätt chill så exploderar det i mitten av terminen :D Anyway tänkte lägga upp lite bilder från Tokyotrippen där jag va och hälsade på Tompa, bättre sent än aldrig kallas det väl.",
+		"content" : [
+					{"type" : "image", "imageSrc" : "../images/091015/8.jpg", "imageTitle" : "Kapsellhotell"},
+					{"type" : "paragraph", "paragraphText" : "Tog in på ett kapsellhotell första natten där folk sov i små lådor ovanpå varandra. Sjukt udda men rätt praktiskt. De hade även ett spa där kunde duscha och göra sig fin bland massa andra nakna japanska män. Hotellet hade nog allt på plats: tandborstar, shampoo, handdukar, rakhyvlar och hårvax."},
+					{"type" : "image", "imageSrc" : "../images/091015/1.jpg", "imageTitle" : "Shibuya crossing"},
+					{"type" : "paragraph", "paragraphText" : "Shibuya - Tokyos nöjes och shoppingdistrikt. Det här var typ den enda delen av staden där de kunde snacka lite engelska. Här hängde vi rätt mycket och käkade gött."},
+					{"type" : "image", "imageSrc" : "../images/091015/2.jpg", "imageTitle" : "Odaiba"},
+					{"type" : "paragraph", "paragraphText" : "Odaiba - konstgjord ö och strand rätt centralt i Tokyo. Superväder men man kunde inte se en enda människa utan tröja på stranden, hade aldrig hänt i Sverige :) På bilden käkar vi shaved ice, som är nån japansk motsvarighet till glass. Smaksatt is, rätt gott. "},
+					{"type" : "image", "imageSrc" : "../images/091015/3.jpg", "imageTitle" : "Odaiba"},
+					{"type" : "paragraph", "paragraphText" : "Detta var weird. Vid ett köpcentrum i Odaiba spelar något band med väldigt unga och väldigt otalangfulla småtjejer (lät inte bra alltså). De hade dock publik vilket till 90% bestod av japanska medelålders män som verkligen gick loss. En av tjejerna tog vatten i munnen och spottade ut över dessa japanska män och alla blev helt galna. Det är tydligen någon grej i Japan och det finns typ massa sådana här band runtom i landet."},
+					{"type" : "image", "imageSrc" : "../images/091015/4.jpg", "imageTitle" : "Ginza"},
+					{"type" : "paragraph", "paragraphText" : "I Ginza var vi och käkade Kobe, vilket kan anses som världens finaste kött. Det ryktas om att djuren bland annat får massage i flera månader. Fick våran personliga kock som fixade allt framför oss precis som vi ville ha det. Köttet typ smälde i munnen mmmm.."},
+					{"type" : "image", "imageSrc" : "../images/091015/5.jpg", "imageTitle" : "Sumo"},
+					{"type" : "paragraph", "paragraphText" : "I slutet av veckan gick jag Tompa och Ayano (Tompas flickvän) och såg sumo vid Ryogoku. Fick gå upp runt 5 på morgonen för att ta tunnelbanan in mot centrala Tokyo då Ayano bodde strax utanför stan. Biljetterna släpptes klock 08.00 och var slut 08.15, vi lyckades hugga de sista. Sumo var coolt. Mycket tempo, sjukt viga, korta matcher - max 30 sekunder - antar att de är helt slut efter de :)"},
+					{"type" : "image", "imageSrc" : "../images/091015/6.jpg", "imageTitle" : "Japanskt Tempel"},
+					{"type" : "image", "imageSrc" : "../images/091015/7.jpg", "imageTitle" : "Pokemon Center"},
+					{"type" : "paragraph", "paragraphText" : "Det här var lite av vad vi hann med denna vecka, har sjukt många fler bilder som jag ska försöka lägga upp nångång. Nu ska jag till gymmet och sen fortsätter tenta-p hehe. Hoppas alla har det bra vart ni än är! Peace"}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 9,
+		"title" : "Kort update",
+		"postDate" : "September 30 2015",
+		"month" : "september",
+		"firstParagraph" : "Har precis haft våran recessweek vilket innebar en vecka resande för de flesta utbytesstudenter och en veckas stenhårt plugg för de flesta locals, jag var I Japan och hälsade på Tompa. Det var as nice. En veckas resande innebär dock att jag har extremt mycket att ta igen just nu med två test och tre inlämningar bara denna vecka. Fick till och med maila professorn I en av kurserna och be om tillåtelse att lämna in senare pga strul med programvara (skaffa aldrig en mac om måste använda Visual Studio, speciellt inte med 128 gb SSD). Det gick dock bra, dom är snälla mot oss utbytesstudenter. Det är midterm period just nu vilket går att jämföra med vanliga tenta-p.",
+		"content" : [
+					{"type" : "paragraphNew", "paragraphText" : "Kommer snart en utförlig update om japantrippen när jag har lite mer tid. Stay tuned."},
+					{"type" : "image", "imageSrc" : "../images/300915/1.jpg", "imageTitle" : ""}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 8,
+		"title" : "Weekend i Batam",
+		"postDate" : "September 12 2015",
+		"month" : "september",
+		"firstParagraph" : "Hola. Har inte haft tid att uppdatera på ett tag då jag haft sjukt mycket för mig. Förra helgen var jag och några holländare och utforskade Batam i Indonesien, vi tog färjan dit vilket var sjukt smidigt och var en tur på cirka 1 timma. Väl där tog vi en taxi till Batam city där vi skulle bo första natten. Vi blev direkt sjukt förvånade över vilken extrem skillnad denna ö var mot Singapore - sopor överallt, måltider för 12 kr och varenda invånade ville ta kort och selfies med oss (till och med personalen inne på Pizza Hut). Fråga mig inte varför men man kände sig verkligen som en kändis med extremt mycket pengar.",
+		"content" : [
+					{"type" : "paragraphNew", "paragraphText" : "Första dagen och kvällen spenderade vi bara lokalt i staden, gick på billig massage, shoppade lite och tog en pubrunda. Dagen efter bestämde vi oss för att hyra skotrar och utforska ön lite - jättesmart idé! Folk kör som idioter och dessutom på vänster sida av vägen (för det mesta.. ibland kör dom även mot färdriktningen). Bensinen köpte man på petflaska i olika kiosker längst vägen, sen var det bara tuta jävligt mycket och köra. Vi tog en runda söderut och hamnade på en lokal strand där vi spenderade nästkommande kväll och dag genom att gå på strandfest, åka bananbåt för 20 kr och bara ta det lugnt."},
+					{"type" : "image", "imageSrc" : "../images/130915/1.jpg", "imageTitle" : "Moppegänget"},
+					{"type" : "image", "imageSrc" : "../images/130915/2.jpg", "imageTitle" : "Stranden"},
+					{"type" : "image", "imageSrc" : "../images/130915/3.jpg", "imageTitle" : "Strandpartaj"},
+					{"type" : "image", "imageSrc" : "../images/130915/4.jpg", "imageTitle" : "Pizzahut"}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 7,
+		"title" : "Kursbyte och lite annat",
+		"postDate" : "Augusti 27 2015",
+		"month" : "augusti",
+		"firstParagraph" : "Denna veckan har gått fort. Uppgifter och datum för quiz och midterms börjar trilla in här och där. En av mina kurser - CS6242 - blev tydligen inställd, tror det var på grund av för få elever. Alltså fick jag jaga en ny kurs som jag kan tillgodoräkna mig på masternivå fort som attan, fick maila runt till alla professorer och kursansvariga och fick tillslut tag på en kurs i Compiler Design. Den sägs vara sjukt svår men kan nog ändå vara intressant. Droppade också CE2409, kändes inte riktigt relevant för mig och det räcker att jag läser 4 kurser. Alltså är de kurserna denna termin: ",
+		"list" : [{"name" : "CS2010", "desc" : "Data Structures and Algorithms II"}, {"name" : "CS4345", "desc" : "General-Purpose Computation on GPU"}, {"name" : "CS4212", "desc" : "Compiler Design"}, {"name" : "LAC1201", "desc" : "Chinese 1"}],
+		"content" : [
+					{"type" : "paragraphNew", "paragraphText" : "En rätt nice sak som de ofta kör med här borta är att de lägger in något slags Gameification moment i varje kurs. I CS2010 har vi en stor leaderboard på hemsidan, som visar de studenter som fått mest poäng på sina uppgifter och test. Man kan också samla achievements i många kurser ifall man t.ex är först med att lösa ett speciellt problem eller att examinatorn känner igen en (har man detta achivement behöver man inte ha id med sig till tentan :)). Detta kanske inte skulle hända Sverige då många kanske känner sig kränkta av att inte synas på leaderborden, men jag tycker att det är ok sålänge man endast kan se typ top 25% av alla elever (och nej jag är inte där.. än :))."},
+					{"type" : "image", "imageSrc" : "../images/270815/1.jpg", "imageTitle" : "UTown från poolen"},
+					{"type" : "paragraph", "paragraphText" : "Jag bor i det högra tornet :)"}
+					],
+
+		"footer" : ""	
+	},
+
+
+	{ 
+		"id" : 6,
+		"title" : "Weekend i Kuala Lumpur",
+		"postDate" : "Augusti 24 2015",
+		"month" : "augusti",
+		"firstParagraph" : "Har äntligen fått våra studentvisum i veckan. Det firade vi genom att ta bussen till Malaysia över helgen och besöka Kuala Lumpur. Boendet bokade vi via airbnb och det gick på typ 150 singaporedollar totalt för oss alla, rätt centralt i stan nära Chinatown. Vi hade en fet pool på taket, den var nice. Första kvällen var vi ute och käkade och besökte twin towers som är världens sjunde högsta skyskrapa. ",
+		"content" : [
+					{"type" : "image", "imageSrc" : "../images/240815/1.jpg", "imageTitle" : "Twin towers"},
+					{"type" : "paragraph", "paragraphText" : "Så hur upplevdes Malaysia? Ja det känns som jag fått se en lite mer verkligen bild av en stad i normala Asien jämfört med Singapore; bilarna kör kors och tvärs, sjukt billig streetfood i varenda hörn och jättefina byggnader blandat med sunkiga hak och sopor. Och ja, massage överallt. Maten gick på runt 4 ringitt och då blev man ordentligt mätt (motsvarande 8 kr)."},
+					{"type" : "image", "imageSrc" : "../images/240815/2.jpg", "imageTitle" : "Street food"},
+					{"type" : "paragraph", "paragraphText" : "Vi var och besökte Batu caves igår som var några enorma grottor vi vandrade runt i med ficklampor. Grottan bjöd på kackerlackor, spindlar, coola stenformationer och ormar. Vi såg ingen orm tyvärr, det hade vart coolt, de ska tydligen vara några meter långa och kunna klättra på väggarna och ofarliga för människor."},
+					{"type" : "image", "imageSrc" : "../images/240815/3.jpg", "imageTitle" : "Redo för grottor"},
+					{"type" : "paragraph", "paragraphText" : "Jag drog till ett elvaruhus precis innan vi skulle ta bussen hem och försökte pruta som en stolle på en skärm (Jessica hade skämt ihjäl sig). Billigaste var en repig LCD 20-tummare med VGA kontakt av något okänt märke för 100 ringitt (200 kr), hann dock inte till en ATM för att ta ut cash så får ta det nästa gång :)"}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 5,
+		"title" : "Kurser och annat",
+		"postDate" : "Augusti 17 2015",
+		"month" : "augusti",
+		"firstParagraph" : "Hejhej bloggen. Inte hänt så mycket det senaste, har varit en rätt lugn helg med ett besök till Arabstreet på fredagen för att kolla på något liveband och chilla bara. Kurserna har blivit spikade nu iaf och de jag kommer att läsa i höst är:",
+		"list" : [{"name" : "CS2010", "desc" : "Data Structures and Algorithms II"}, {"name" : "CS2409", "desc" : "Computer Applications in Civil Engineering"}, {"name" : "CS4345", "desc" : "General-Purpose Computation on GPU"}, {"name" : "CS6242", "desc" : "Digital Libraries"}, {"name" : "LAC1201", "desc" : "Chinese 1"}],
+		"content" : [
+					{"type" : "paragraphNew", "paragraphText" : "Det verkar alltså bli väldigt blandad nivå på kurserna. GPU kursen ska bli nice, vi ska koda i GLSL och CUDA samt lära oss mer om avancerad OpenGL. CS2010 är typ en fortsättning på Datastrukturer som jag läste på LiU i våras, verkar rätt nice so far. Föreläsaren langade upp Sublime Text 3 och livekodade inför hela klassen, samt visualiserade sökalgoritmer i visualgo. Verkar hittils som ett betydligt bättre sätt för mig att ta in saker jämfört med att bara stirra trötta slides. CS2409 blir nog en plojkurs där vi ska bygga hus i CAD och Microstation. CS6242 är en kurs på doktorandnivå, vet inte så mkt om den än förutom att den ska ha ett webbaserat projekt. Kinesiskan blir nog köttig med alla tecken som makes no sense överhuvudtaget, dessutom har de fyra olika tonlägen på sina vokaler som har helt olika mening beroende på hur man betonar dem, bara nöta in antar jag. Iaf rätt kul att ha en kurs som inte är teknisk :)"},
+					{"type" : "image", "imageSrc" : "../images/170815/1.jpg", "imageTitle" : "Kinatecken :)"},
+					{"type" : "paragraph", "paragraphText" : "Vi ska kunna 150 tecken efter kursens slut! Tjoho!"}
+					],
+
+		"footer" : ""	
+	},
+	
+	{ 
+		"id" : 4,
+		"title" : "SG50 och Skolstart",
+		"postDate" : "Augusti 12 2015",
+		"month" : "augusti",
+		"firstParagraph" : "Det har varit långhelg här då Singapore har firat 50 år av självständighet. Sjukt mycket folk i stan och massor med aktiviteter som var gratis för allmänheten att gå på som t.ex museum och olika trädgårdar. Men när det är såna jippon så blir det så extremt mycket folk, kön till Science och Art utställningen var cirka 4 timmar minst men folk köade glatt ändå, sjukt. Vi valde att skjuta upp att besöka monumenten till ett bättre tillfälle och gick istället på det stora firandet vid hamnen (airshows, militärparad, fyrverkerier och INSANE mycket folk).  ",
+		"content" : [
+					{"type" : "image", "imageSrc" : "../images/120815/1.jpg", "imageTitle" : "Airshow vid hamnen"},
+					{"type" : "paragraph", "paragraphText" : "På lördagskvällen var det house/dance festival på Sentosa som vi var på, inga direkt kända DJ:s eller låtar men det var bra ös ändå :) Dessutom hade de en flowrider precis vid beachen, rätt sick! Skulle tatt med mina badshorts. Blir säkerligen ett eller flera besök där."},
+					{"type" : "image", "imageSrc" : "../images/120815/2.jpg", "imageTitle" : "Flowrider på Sentosa Beach"},
+					{"type" : "paragraph", "paragraphText" : "Skolan drog igång i tisdags också. Schemat är det fortfarande lite småpill med men det är i stort sett klart. Har tagit en nybörjarkurs i kinesiska, samt lyckas få fredagar ledigt om jag vill sticka iväg någonstans :) Har dock lyckats attenda en kurs som är på PhD nivå, whops.. (doktorander gör tydligen kurser här) får se hur den går. Det verkar som att jag skriver mina sista tentor redan den 23:e November om allt går vägen, det innebär isåfall att jag får ca en veckas längre jullov yeehaa! Ger en update om exakt vilka kurser jag läser i slutet av veckan då allt är klart. Vi hörs!"}
+					],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 3,
+		"title" : "Lokal mat och Sentosa Beach",
+		"postDate" : "Augusti 7 2015",
+		"month" : "augusti",
+		"firstParagraph" : "Häromdagen var vi i China Town igen, hade denna gången en singaporean med oss som skulle visa oss schyssta ställen och lokal mat. Tim hette han, trevlig snubbe som hade vart på utbyte i Lund i våras. De bästa rätterna som jag tyckte var godast var dels Dim Sum, typ kinesiska dumplings (googla), samt Popiah som var färska vårrullar (ej friterade) fyllda med morötter, chilli, jordnötter och sallad. Vi testade även Durian som är en väldigt speciell frukt som är typ som en delikatess här. Den luktar sjukt mycket och äckligt (typ som surströmming) och den är till och med förbjuden att ha med på tunnelbanan för att inte störa andra. Smaken anses dock som väldigt god så var tvungen att testa den. Recension: Konsistensen typ som gelé, den smakade ingenting för lukten tog över. NJA 1/5 kanske.",
+		"content" : [
+					{"type" : "image", "imageSrc" : "../images/070815/1.jpg", "imageTitle" : "Popiah"},
+					{"type" : "image", "imageSrc" : "../images/070815/2.jpg", "imageTitle" : "Durianfrukten"},
+					{"type" : "paragraph", "paragraphText" : "På eftermiddagen besökte vi Sentosa Island som är en stor turistattraktion där blandannat Universal Studios ligger. Det finns en stor vit sandstrand och svindyra hotell och restauranger där. All sand är tydligen importerad från andra länder hur det nu är möjligt.  "},
+					{"type" : "image", "imageSrc" : "../images/070815/3.jpg", "imageTitle" : "Sentosa Beach"},
+					{"type" : "image", "imageSrc" : "../images/070815/4.jpg", "imageTitle" : "Promenaden till Sentosa"},
+					{"type" : "paragraph", "paragraphText" : "BTW, Vi har föressten satt upp lite hattar på väggen i lägenheten och köpt en blomma, mys. Min roomie Johan ser nöjd ut iaf. "},
+					{"type" : "image", "imageSrc" : "../images/070815/5.jpg", "imageTitle" : "Vardagsrummet"},
+					{"type" : "paragraph", "paragraphText" : "Måste snart fixa en fetch funktion för de äldre inläggen snart, börjar lagga med alla bilder. Update inc."}],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 2,
+		"title" : "Gröt och Pump",
+		"postDate" : "Augusti 4 2015",
+		"month" : "augusti",
+		"firstParagraph" : "Insåg idag att vi har ett köpcentrum ca 10 minuter att gå från campus, så jag och mina roomies tog och traskade dit. Rätt stort, ca 3 våningar högt och det mesta fanns där. Ingen elektronikaffär dock, det har jag inte hittat någon än så länge.. behöver prischecka lite surfplattor och andra grejer ifall det skulle vara värt att inhandla något här. Köpte frukost för första gången iaf, rätt trött på att käka kyckling och ris direkt när man vaknat. Blev havregrynsgröt med hallonsylt, classic.",
+		"content" : [  {"type" : "paragraphNew", "paragraphText" : "På eftermiddagen checkade jag gymmet, rätt stort och det mesta som man kan önska sig fanns på plats. Rätt kasst med fria vikter dock, fick trängas en hel del där."},
+					{"type" : "image", "imageSrc" : "../images/040815/1.jpg", "imageTitle" : "Gymmet"},
+					{"type" : "paragraph", "paragraphText" : "Efter gymmet var det ett bra läge att checka in poolen vi har på UTown, en våning upp fanns den. Rätt gött att kasta sig i efter ett svettigt rygg/triceps pass :)"},
+					{"type" : "image", "imageSrc" : "../images/040815/2.jpg", "imageTitle" : "Poolen"},
+					{"type" : "paragraph", "paragraphText" : "Imorgon ska vi på foodbingo i China Town. Tror vi ska testa massa konstig mat där eller nåt, ska försöka ta lite bilder. Ciao!"}],
+
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 1,
+		"title" : "Första dagarna",
+		"postDate" : "Augusti 1 2015",
+		"month" : "augusti",
+		"firstParagraph" : "Det har varit riktigt hetsigt från sekunden jag landade på flygplatsen, men hittils har allting gått riktigt bra med boendet och allt pappersarbete. Boendet jag fått heter uTown Residence och ligger norrut på campus. Jag delar lägenhet med en holländare och en annan svensk kille hittils, den sista personen har inte kommit än. Vi bor på 20:e våningen vilket är nice då det håller de flesta krypen borta, kan lämna lägenheten med fönstrerna öppna utan problem, utsikten är grym förövrigt :)",
+		"content" : [ {"type" : "image", "imageSrc" : "../images/010815/1.jpg", "imageTitle" : "Rummet"}, 
+					  {"type" : "paragraph", "paragraphText" : "Det är en bit till Faculty of Computing där jag förmodligen kommer hänga mest, men det går gratisbussar här på campus och tar nog ca 5-10 min att ta sig dit med dem. Allt annat finns dock här; foodcourts, gym, pool, affärer, minimarkets, fotbollsplaner, bankomater, någon restaurang och en Starbucks, det sägs att man sällan behöver gå utanför campus. Idag tog vi dock tunnelbanan in till stan för att gå på en liten rundvandring och besökte bland annat China Town. Rätt weird ställe där man kunde allt mellan trasiga och använda telefoner, torkade ödlor och andra prylar man hittar på vilken semesterort som helst. De hade också olika slags tempel där buddhisterna satt sjöng eller något (det lät typ som de rappade)."},
+					  {"type" : "image", "imageSrc" : "../images/010815/2.jpg", "imageTitle" : "China Town"},
+					  {"type" : "image", "imageSrc" : "../images/010815/3.jpg", "imageTitle" : "Tempel"},
+					  {"type" : "paragraph", "paragraphText" :"Efter China Town tog vi en båttur in till hamnen för att se lite andra monument som t.ex Marina Bay vilket är ett av Singapores påkostade och lyxigaste hotell, samt Clark Quay som var något slags restaurangdistrikt med massor av resturanger och barer precis vid hamnen. " },
+					  {"type" : "image", "imageSrc" : "../images/010815/5.jpg", "imageTitle" : "Clark Quay från utsidan"},
+					  {"type" : "image", "imageSrc" : "../images/010815/6.jpg", "imageTitle" : "Marina Bay"},
+					  {"type" : "image", "imageSrc" : "../images/010815/7.jpg", "imageTitle" : "Fyrverkerier vid hamnen"},
+					  {"type" : "paragraph", "paragraphText" : "Vi avslutade dagen med att kolla på ett påkostat fyrverkeri som var någon slags genrep inför nästa söndag som är Singapores nationaldag. Det ska ske något monsterstort firande då Singapore firar 50 år av självständighet. Imon ska vi till Ikea och köpa prylar samt käka köttbullar och lite podadis!"},
+					  {"type" : "paragraphNew", "paragraphText" : " Har btw skaffat Singaporeanskt nummer, hör av er om ni vill få tag i det. Annars nås jag på Whatsapp, Kik, mail, Skype, Facebook eller whatever. Ha det gött hemma i Sverige så hörs vi snart!"}],
+		"footer" : ""	
+	},
+
+	{ 
+		"id" : 0,
+		"title" : "Hello World!",
+		"postDate" : "Juli 29 2015",
+		"month" : "juli",
+		"firstParagraph" : "Då börjar resan till ett tropiskt klimat och ett spännande utbytesår på NUS i Singapore. I brist på annat att göra i 7 timmar i Köpenhamn kan man fördriva tiden på en bar och fixa klart resebloggen så att det blir någon form av dokumentation på resan :) (eller det är målet iaf, ärligt talat tyckte jag det var kul att koda ihop den bara). Nästa mellanlandning sker i Doha i Qatar och efter det Singapore, det blir en total restid på ca 18 timmar och jag är förhoppningsvis framme klockan 15.15 lokal tid imorgon. Planen är att träffa några andra utbytesstudenter på flygplatsen och dela en taxi till campus där jag har mitt boende.",
+		"content" : [ {"type" : "image", "imageSrc" : "../images/290715/1.jpg", "imageTitle" : "Olearys på Kastrup"}],
+		"footer" : ""	
+	}
+	
+]

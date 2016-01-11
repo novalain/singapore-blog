@@ -1,0 +1,14 @@
+{
+  "name": "singapore-blogg",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "angular": "~1.4.3",
+    "materialize": "~0.97.0",
+    "angular-materialize": "*"
+  },
+  "devDependencies": {
+    "chai": "~3.2.0",
+    "mocha": "~2.2.5"
+  }
+}
