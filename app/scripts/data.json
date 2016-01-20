@@ -1,4 +1,21 @@
 [
+
+	{ 
+		"id" : 12,
+		"title" : "Ny termin",
+		"postDate" : "Januari 20 2016",
+		"month" : "januari",
+		"firstParagraph" : "Nytt år och ny termin! Har vart iväg och rest med mina vänner under juluppehållet och hann med att besöka Malaysia, Thailand, Kambodja och Vietnam. Riktigt skoj har vi haft, vi firade jul på Phu Quoc och nyår i Saigon på världens rooftopbar med utsikt över hela stan. Bilderna lär komma upp på facebook eller liknande inom en snar framtid och de får tala för sig själva :) nu är man iaf riktig laddad för sista tiden i Singapore. Kurser denna termin:",
+		"list" : [{"name" : "CS3226", "desc" : "Web Programming and Applcations"}, {"name" : "CS6241", "desc" : "Advanced Topics in Computer Graphics"}, {"name" : "CS3247", "desc" : "Game Development"}, {"name" : "CS3243", "desc" : "Introduction to Artifical Intelligence"}, {"name" : "CS3242", "desc" : "3D Modeling and Animation"}],
+		"content" : [
+					{"type" : "paragraphNew", "paragraphText" : "Kurserna verkar svin bra, vi får lära oss Unreal Engine och projektet kommer att bli något slags spel i VR. Varje labgrupp på 2 pers fick också hämta ut var sin Oculus Rift att leka med hemma. Min labbpartner bor inte på campus så han frågade om jag kunde tänka mig ha den, det kunde jag :)"},
+					{"type" : "image", "imageSrc" : "../images/200116/1.jpg", "imageTitle" : "#gostämning"},
+					{"type" : "paragraph", "paragraphText" : "Så här kul hade vi när vi inte hade wi-fi :)"}
+					],
+
+		"footer" : ""	
+	},
+
 	{ 
 		"id" : 11,
 		"title" : "Tenta-P",
